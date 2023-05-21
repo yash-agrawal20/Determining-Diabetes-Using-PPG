@@ -1,4 +1,4 @@
-# Determning-Diabetes-Using-PPG
+# Determining-Diabetes-Using-PPG
 
 This project focuses on determining whether a person is diabetic or not based on Photoplethysmography (PPG) signals. PPG signals provide valuable information about the cardiovascular system, and by analyzing specific features extracted from these signals, we can make predictions about a person's diabetic condition.
 
